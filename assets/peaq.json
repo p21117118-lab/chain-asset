@@ -113,5 +113,23 @@
     "Coingecko API ID": "",
     "Risk": "normal",
     "Network": "peaq"
+  },
+  {
+    "TokenID": "0xFA99C5A41EB33521CBa06d5De0F9Fd93837E5C99",
+    "TokenSymbol": "TBY",
+    "Logo": "../logos/peaq_erc20_TBY.svg",
+    "Description (en)": "TBY (Terabyte/Year) is the utility token of DeNet Storage Protocol, a decentralized storage network powered by user-provided devices—a sovereign alternative to centralized clouds. Users rent out disk space to Datakeepers, while Watcher Nodes validate data availability. TBY powers the storage economy: payments for storage, node incentives, and cross-chain value transfer between peaq and Polygon via LayerZero.",
+    "Description (zh)": "",
+    "Website Link": "https://denet.pro",
+    "Twitter Link": "https://x.com/DeNetPro",
+    "Telegram Link": "https://t.me/denetnews",
+    "Discord Link": "https://discord.com/invite/GBBKVC65qE",
+    "Medium Link": "https://medium.com/denetpro",
+    "Github Link": "https://github.com/DeNetPRO",
+    "Tag": "DePIN, Storage, Data",
+    "Category": "erc20",
+    "Coingecko API ID": "",
+    "Risk": "normal",
+    "Network": "peaq"
   }
 ]
